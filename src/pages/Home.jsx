@@ -29,7 +29,7 @@ import {
 } from "lucide-react";
 
 // Import banner images
-import banner1 from "./../assets/newImages/hero2.png";
+import banner1 from "./../assets/newImages/hero1.png";
 import banner2 from "./../assets/newImages/hero3.png";
 import banner3 from "./../assets/newImages/hero4.png";
 import banner4 from "./../assets/newImages/hero5.png";
@@ -1017,3 +1017,4 @@ const Home = () => {
 };
 
 export default Home;
+
