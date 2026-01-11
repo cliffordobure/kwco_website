@@ -53,7 +53,7 @@ const Home = () => {
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
 
   // Array of your banner images
-  const bannerImages = [banner1, banner2, banner3, banner4, banner6, banner7];
+  const bannerImages = [banner2, banner3, banner4, banner6, banner7];
 
   // Auto-slide functionality
   useEffect(() => {
@@ -1017,3 +1017,4 @@ const Home = () => {
 };
 
 export default Home;
+
